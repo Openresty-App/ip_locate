@@ -28,7 +28,7 @@ curl http://10.77.144.136:10582/query?ip=8.8.8.8
 ```
 
 纯真数据库主页：http://www.cz88.net
-需要在Windows安装后取出qqwry.lua
+需要在Windows安装后取出qqwry.dat
 
 
 三. Todo
