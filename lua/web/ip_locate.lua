@@ -1,4 +1,4 @@
--- turl app
+-- app
 local ngx = require "ngx"
 local cjson = require "cjson.safe"
 local qqwry = require("qqwry")
