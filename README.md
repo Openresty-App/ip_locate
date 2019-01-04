@@ -1,5 +1,7 @@
 IP定位查询
 
+move to https://github.com/Openresty-App/iplocate
+
 一. 说明
 -----------
 查询IP地理位置和网络位置。依赖纯真数据库。
