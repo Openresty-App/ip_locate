@@ -31,11 +31,19 @@ curl http://10.77.144.136:10582/query?ip=8.8.8.8
 需要在Windows安装后取出qqwry.dat
 
 
-三. Todo
+三. Start
+-----------
+
+```
+sudo /usr/local/openresty/nginx/sbin/nginx -c /apps/ip_locate/nginx.conf -p /apps/ip_locate -s reload
+```
+
+四. Todo
 -----------
 
 1. 纯真库默认编码是GB2312，需要改为UTF-8
 2. 纯真库的数据文件需要使用绝对路径, 需要改为相对路径
 3. ip查询需要支持列表查询(暂时不做，使用(RestHub)批量接口替代)
+
 
 
